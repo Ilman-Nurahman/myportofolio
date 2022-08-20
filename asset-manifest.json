@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/myportofolio/static/css/main.3ffaad58.css",
+    "main.js": "/myportofolio/static/js/main.041a058d.js",
+    "static/js/787.8796d788.chunk.js": "/myportofolio/static/js/787.8796d788.chunk.js",
+    "static/media/ilman_pas_hitam.jpg": "/myportofolio/static/media/ilman_pas_hitam.9b206ffe2e6157ab3126.jpg",
+    "static/media/sertifikat-pelatihan.jpg": "/myportofolio/static/media/sertifikat-pelatihan.d45f3533e82aa8447ad3.jpg",
+    "static/media/sartifikat-magang.jpg": "/myportofolio/static/media/sartifikat-magang.bcf01d8765317d29d811.jpg",
+    "static/media/logo-duhans.jpeg": "/myportofolio/static/media/logo-duhans.96f6732dd984107b38fe.jpeg",
+    "static/media/bootstrap.png": "/myportofolio/static/media/bootstrap.6a5ffbee75a25c63c8ce.png",
+    "static/media/vuetify.png": "/myportofolio/static/media/vuetify.fb093f07db25d770c3de.png",
+    "static/media/nodejs.png": "/myportofolio/static/media/nodejs.61cd2cea3e01651ec1f1.png",
+    "static/media/linkedin.png": "/myportofolio/static/media/linkedin.05a3fb1922ddd432a57e.png",
+    "static/media/instagram.png": "/myportofolio/static/media/instagram.fa104452688f31e0bbe3.png",
+    "static/media/nuxtjs.jpeg": "/myportofolio/static/media/nuxtjs.1ee9ee43c6078f8740d9.jpeg",
+    "static/media/logo.jpg": "/myportofolio/static/media/logo.b98ad34a0b71e26f3b64.jpg",
+    "static/media/bulma-banner.png": "/myportofolio/static/media/bulma-banner.25c315bc1726145d4d2d.png",
+    "static/media/backgrond-jumbotron.svg": "/myportofolio/static/media/backgrond-jumbotron.b6054279ae31d885915fc1f987d59d7c.svg",
+    "static/media/whatsapp.png": "/myportofolio/static/media/whatsapp.bae9eabe5f04b34350c1.png",
+    "static/media/vuejs-putih.jpeg": "/myportofolio/static/media/vuejs-putih.00450787efb009db95ca.jpeg",
+    "static/media/html.png": "/myportofolio/static/media/html.1a535f12548febc4545a.png",
+    "static/media/git2.png": "/myportofolio/static/media/git2.2d44292368b96140e1bb.png",
+    "static/media/reactjs.jpg": "/myportofolio/static/media/reactjs.6313a2d3e7d5993e0e77.jpg",
+    "static/media/facebook.png": "/myportofolio/static/media/facebook.edcf9779c3cbcd29b8f4.png",
+    "static/media/mongodb2.png": "/myportofolio/static/media/mongodb2.f3902e8f707a98733ee1.png",
+    "static/media/logo-sekolah.jpg": "/myportofolio/static/media/logo-sekolah.4b75d2a2418bb3b962dd.jpg",
+    "index.html": "/myportofolio/index.html",
+    "main.3ffaad58.css.map": "/myportofolio/static/css/main.3ffaad58.css.map",
+    "main.041a058d.js.map": "/myportofolio/static/js/main.041a058d.js.map",
+    "787.8796d788.chunk.js.map": "/myportofolio/static/js/787.8796d788.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffaad58.css",
+    "static/js/main.041a058d.js"
+  ]
+}
