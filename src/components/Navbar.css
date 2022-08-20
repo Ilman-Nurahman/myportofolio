@@ -1,0 +1,23 @@
+:root {
+  --backgroundColor: #ffffff;
+  --primaryColor: #2899f9;
+}
+
+#navItem:hover {
+  color: var(--backgroundColor) !important;
+  background-color: var(--primaryColor);
+  transition: 0.3s;
+}
+
+#navItem {
+  letter-spacing: 1px;
+}
+
+.active {
+  color: var(--backgroundColor) !important;
+  background-color: var(--primaryColor) !important;
+}
+
+img.imageClass {
+  border-radius: 50%;
+}
