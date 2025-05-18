@@ -20,7 +20,7 @@ import '../../Dom/loader.js'
 class HomePage extends Component {
 
   openWhatsapp() {
-    window.open("https://api.whatsapp.com/send?phone=62895343302619", "_self")
+    window.open("https://api.whatsapp.com/send?phone=6287728427128", "_self")
   }
 
   render() {
@@ -45,7 +45,7 @@ class HomePage extends Component {
                   <p className="pJ">Follow Me<span></span></p>
                   <div className="cenBtn">
                     <div className="CardSosmed">
-                      <a href="https://api.whatsapp.com/send?phone=62895343302619" target="_blank"><img
+                      <a href="https://api.whatsapp.com/send?phone=6287728427128" target="_blank"><img
                         src={logoWhatsapp} width="22" alt="whatsapp-link" /></a>
                       <a style={{ marginLeft: 15 }} href="https://facebook.com/ilman.nurahman.1/" target="_blank"><img
                         src={logoFacebook} width="20" alt="facebook-link" /></a>
@@ -96,7 +96,7 @@ class HomePage extends Component {
               technology.
             </p>
             <p>
-              Powered by <strong>Ilman Nurahman</strong> 2021
+              Powered by <strong>Ilman Nurahman</strong> 2025
             </p>
           </div>
         </footer>

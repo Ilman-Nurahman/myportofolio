@@ -12,6 +12,10 @@ export const data = [
     image: require('../../assets/img/skill-img/javascript.jpg')
   },
   {
+    title: 'php',
+    image: require('../../assets/img/skill-img/php.png')
+  },
+  {
     title: 'node.js',
     image: require('../../assets/img/skill-img/nodejs.png')
   },
@@ -44,7 +48,11 @@ export const data = [
     image: require('../../assets/img/skill-img/bulma-banner.png')
   },
   {
-    title: 'Git',
-    image: require('../../assets/img/skill-img/git2.png')
+    title: 'Gitlab',
+    image: require('../../assets/img/skill-img/git3.png')
   },
+  {
+    title: 'Github',
+    image: require('../../assets/img/skill-img/github3.png')
+  }
 ]

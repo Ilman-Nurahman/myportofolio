@@ -11,10 +11,14 @@ function Skills() {
           data.map((data, index) => {
             return (
               <div className="column is-4" key={"image" + index} style={{ marginTop: 20 }}>
-                <div className="card" style={{ width: 300 }}>
-                  <div className="card-image">
-                    <figure className="image">
-                      <img src={data.image} alt="Placeholder image" />
+                <div className="card" style={{ width: 300, height: 200 }}>
+                  <div className="card-image" style={{ width: '100%', height: '100%' }}>
+                    <figure className="image" style={{ width: '100%', height: '100%' }}>
+                      <img
+                        src={data.image}
+                        alt="Placeholder image"
+                        style={{ width: '100%', height: '100%', objectFit: 'fill' }}
+                      />
                     </figure>
                   </div>
                 </div>
