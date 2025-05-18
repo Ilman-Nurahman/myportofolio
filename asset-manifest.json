@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/myportofolio/static/css/main.3ffaad58.css",
-    "main.js": "/myportofolio/static/js/main.cf42bd09.js",
+    "main.js": "/myportofolio/static/js/main.b46e3ee8.js",
     "static/js/787.8796d788.chunk.js": "/myportofolio/static/js/787.8796d788.chunk.js",
     "static/media/ilman_pas_hitam.jpg": "/myportofolio/static/media/ilman_pas_hitam.9b206ffe2e6157ab3126.jpg",
     "static/media/sertifikat-pelatihan.jpg": "/myportofolio/static/media/sertifikat-pelatihan.d45f3533e82aa8447ad3.jpg",
     "static/media/sartifikat-magang.jpg": "/myportofolio/static/media/sartifikat-magang.bcf01d8765317d29d811.jpg",
     "static/media/logo-duhans.jpeg": "/myportofolio/static/media/logo-duhans.96f6732dd984107b38fe.jpeg",
+    "static/media/logo-univ.png": "/myportofolio/static/media/logo-univ.dd62bb0157a518f1c6f3.png",
     "static/media/bootstrap.png": "/myportofolio/static/media/bootstrap.6a5ffbee75a25c63c8ce.png",
     "static/media/vuetify.png": "/myportofolio/static/media/vuetify.fb093f07db25d770c3de.png",
     "static/media/nodejs.png": "/myportofolio/static/media/nodejs.61cd2cea3e01651ec1f1.png",
@@ -26,11 +27,11 @@
     "static/media/logo-sekolah.jpg": "/myportofolio/static/media/logo-sekolah.4b75d2a2418bb3b962dd.jpg",
     "index.html": "/myportofolio/index.html",
     "main.3ffaad58.css.map": "/myportofolio/static/css/main.3ffaad58.css.map",
-    "main.cf42bd09.js.map": "/myportofolio/static/js/main.cf42bd09.js.map",
+    "main.b46e3ee8.js.map": "/myportofolio/static/js/main.b46e3ee8.js.map",
     "787.8796d788.chunk.js.map": "/myportofolio/static/js/787.8796d788.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ffaad58.css",
-    "static/js/main.cf42bd09.js"
+    "static/js/main.b46e3ee8.js"
   ]
 }
